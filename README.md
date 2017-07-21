@@ -1,2 +1,2 @@
 # at-angular-slash-cli-builder
-Basic builder for @angular/c
+Basic builder for @angular/cli applications
